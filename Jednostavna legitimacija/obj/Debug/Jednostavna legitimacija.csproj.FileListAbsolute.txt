@@ -1,0 +1,11 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Jednostavna legitimacija\Jednostavna legitimacija\bin\Debug\Jednostavna legitimacija.exe.config
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Jednostavna legitimacija\Jednostavna legitimacija\bin\Debug\Jednostavna legitimacija.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Jednostavna legitimacija\Jednostavna legitimacija\bin\Debug\Jednostavna legitimacija.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Jednostavna legitimacija\Jednostavna legitimacija\obj\Debug\Jednostavna legitimacija.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Jednostavna legitimacija\Jednostavna legitimacija\obj\Debug\Jednostavna legitimacija.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Jednostavna legitimacija\Jednostavna legitimacija\obj\Debug\Jednostavna_legitimacija.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Jednostavna legitimacija\Jednostavna legitimacija\obj\Debug\Jednostavna_legitimacija.Properties.Resources.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Jednostavna legitimacija\Jednostavna legitimacija\obj\Debug\Jednostavna legitimacija.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Jednostavna legitimacija\Jednostavna legitimacija\obj\Debug\Jednostavna legitimacija.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Jednostavna legitimacija\Jednostavna legitimacija\obj\Debug\Jednostavna legitimacija.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Jednostavna legitimacija\Jednostavna legitimacija\obj\Debug\Jednostavna legitimacija.pdb
